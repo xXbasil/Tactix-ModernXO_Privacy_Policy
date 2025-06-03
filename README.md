@@ -1,4 +1,4 @@
-# Privacy Policy – XO Game
+# Privacy Policy – Tactix | Modern XO
 
 **Effective Date:** 4/6/2025
 
