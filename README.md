@@ -4,9 +4,10 @@
 
 XO Game respects your privacy. This app is a modern and fully offline version of the classic Tic-Tac-Toe game, with **no data collection**, **no tracking**, and **no internet access**.
 
-# Voluntary and Free to Use
+# Paid Application
 
-XO Game is a completely **free** and **voluntary** application. It does **not require payment**, subscriptions, or in-app purchases. All features are available to every user at no cost.
+XO Game is a **one-time paid** application. After purchasing the app from the App Store, all features are available without any additional charges, subscriptions, or in-app purchases.
+
 
 # Data Collection
 
